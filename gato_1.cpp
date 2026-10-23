@@ -1,6 +1,11 @@
+//Jesus Antonio Solis Gomez
+//3SS
+//Estructura de Datos
+// Link del repositorio de GitHub: https://github.com/JesusAntonioSolisGomez/Gato-con-matrices-de-3x3
+
 // Practica: Juego del gato (tres en raya) con matrices en C++
 // Objetivo: programar el juego del gato para dos jugadores usando una matriz de 3x3.
-// Link del repositorio de GitHub: https://github.com/JesusAntonioSolisGomez/Gato-con-matrices-de-3x3
+
 
 #include <iostream>
 #include <cctype>
